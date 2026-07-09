@@ -1,6 +1,6 @@
-<!-- Banner: replace banner.png with your uploaded image, place it in the repo root -->
+<!-- Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Prathamesh Prasad banner" width="100%" />
+  <img src="./banner.svg" alt="Prathamesh Prasad banner" width="100%" />
 </p>
 
 <h1 align="center">Prathamesh Prasad</h1>
@@ -74,10 +74,8 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prathamesh51-debug/Prathamesh51-debug/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Prathamesh51-debug/Prathamesh51-debug/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-> ⚙️ The snake animation is generated automatically via a GitHub Action — setup steps are in the [Setup Notes](#-setup-notes-for-you) section below.
 
 ---
 
@@ -88,7 +86,7 @@ Turn a single sentence into a complete, responsive, multi-page website — in se
 `React` `TypeScript` `Node.js` `Prisma` `PostgreSQL` `Tailwind CSS`
 
 **[Ranabhum](https://github.com/Prathamesh51-debug/Ranabhum)**
-*(description coming soon)*
+A highly scalable, event-driven benchmark and real-time telemetry pipeline that compiles, isolates, stress-tests, and scores high-performance financial order matching engines submitted by contestants.
 
 ---
 
@@ -108,39 +106,3 @@ Turn a single sentence into a complete, responsive, multi-page website — in se
 <p align="center">⭐ If you find my work interesting, star some repos — it means a lot!</p>
 
 ---
-
-<!--
-### 🔧 Setup Notes for you (delete this section once done)
-
-1. BANNER: Save your banner image as `banner.png` in the root of this repo (same folder as README.md).
-
-2. SNAKE ANIMATION: Create `.github/workflows/snake.yml` in this repo with:
-
-   name: Generate Snake
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch:
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: Prathamesh51-debug
-             outputs: dist/github-contribution-grid-snake.svg
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   Then go to repo Settings → Actions → General → Workflow permissions → set to "Read and write permissions", and run the workflow once manually from the Actions tab.
-
-3. STATS CARDS: The github-readme-stats / streak-stats / top-langs links work automatically for public repos, no setup needed. If you want them to include private repo contributions, you may need to fork github-readme-stats and deploy your own instance with a token (public instance can rate-limit).
-
-4. RANABHUM: Swap in a real one-line description whenever you're ready.
--->
