@@ -3,8 +3,7 @@
   <img src="./banner.svg" alt="Prathamesh Prasad banner" width="100%" />
 </p>
 
-<h1 align="center">Prathamesh Prasad</h1>
-<h3 align="center">💡 Turning Ideas into Scalable Systems</h3>
+<h2 align="center">💡 Turning Ideas into Scalable Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prathamesh510"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
