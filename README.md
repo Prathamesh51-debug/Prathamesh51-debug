@@ -17,7 +17,7 @@
 
 - 🔭 Currently building **[GenSite](https://github.com/Prathamesh51-debug/GenSite)** — an AI-powered website generator that turns a sentence into a live multi-page site
 - 🎓 B.E. in Instrumentation & Electronics Engineering @ Jadavpur University
-- 💻 Focused on full-stack & backend development — Node.js/Express, FastAPI, React, TypeScript, PostgreSQL
+- 💻 Focused on full-stack development — Node.js/Express, FastAPI, React, TypeScript, PostgreSQL
 - ⚔️ Sharpening problem-solving on [Codeforces](https://codeforces.com/profile/RadheKrisna)
 - 📍 Based in West Bengal, India
 
